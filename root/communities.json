@@ -1,0 +1,281 @@
+[
+  {
+    "name": "Belarus Kotlin User Group",
+    "topics": "kotlin, web, backend, native, android, ios",
+    "logo": "bkug.png",
+    "url": "https://bkug.by/"
+  },
+  {
+    "name": "Java Professionals By",
+    "topics": "java, web, backend",
+    "logo": "jprof.png",
+    "url": "https://jprof.by/"
+  },
+  {
+    "name": "Minsk.rb",
+    "topics": "Ruby, Ruby on Rails, engineering",
+    "url": "https://www.facebook.com/minskruby/"
+  },
+  {
+    "name": "MinskJS",
+    "topics": "JavaScript for all platforms",
+    "url": "https://www.facebook.com/MinskJS/"
+  },
+  {
+    "name": "MinskCSS",
+    "topics": "CSS",
+    "url": "https://www.facebook.com/MinskCSS/"
+  },
+  {
+    "name": "GoWay",
+    "topics": "Golang, engineering, architecture",
+    "url": "https://www.facebook.com/gowaymeetup/"
+  },
+  {
+    "name": "GDG",
+    "topics": "Google technologies, mostly Android",
+    "url": "https://www.facebook.com/groups/gdgminsk/"
+  },
+  {
+    "name": "byGIS",
+    "topics": "GIS tech, DB, engineering",
+    "url": "https://bygis.by/"
+  },
+  {
+    "name": "ODS",
+    "topics": "Data Science (incl. AI, ML)",
+    "url": "https://t.me/odsminsk"
+  },
+  {
+    "name": "In PM Shoes",
+    "topics": "Product Managers, BA",
+    "url": "http://inproductshoes.com/"
+  },
+  {
+    "name": "HR community",
+    "topics": "HR in IT, PR in IT",
+    "url": "https://www.facebook.com/hriteventsby/"
+  },
+  {
+    "name": ".NET User Group",
+    "topics": ".NET Platform, engineering, architecture",
+    "url": "https://www.facebook.com/groups/dotnet.minsk/"
+  },
+  {
+    "name": "WTM",
+    "topics": "Women in tech, multiple topics",
+    "url": "https://www.facebook.com/groups/1136914882993034/"
+  },
+  {
+    "name": "Salesforce Professionals Belarus",
+    "topics": "Salesforce",
+    "url": "https://www.facebook.com/salesforceprofessionalsby/"
+  },
+  {
+    "name": "CocoaHeads",
+    "topics": "iOS, Obj-C, Swift, C++, engineering",
+    "url": "https://www.facebook.com/groups/iosby/"
+  },
+  {
+    "name": "DevOps",
+    "topics": "DevOps, CI, CD, build tools",
+    "url": "https://www.facebook.com/groups/391132934426041/about/"
+  },
+  {
+    "name": "FuncBY",
+    "topics": "Functional programing languages, functional style/approach/libraries, engineering, programming languages theory",
+    "url": "https://www.facebook.com/groups/funcby/?fref=nf"
+  },
+  {
+    "name": "People V Process",
+    "topics": "Agile, management, business",
+    "url": "https://www.facebook.com/groups/peopleVprocess/about/"
+  },
+  {
+    "name": "Scala",
+    "topics": "Scala, FP Scala, JVM, engineering",
+    "url": "https://www.facebook.com/scala.enthusiastsbelarus"
+  },
+  {
+    "name": "MODX Беларусь",
+    "topics": "",
+    "url": "https://www.facebook.com/modxby"
+  },
+  {
+    "name": "Cyber Academy",
+    "topics": "Блокчейн",
+    "url": "https://web.facebook.com/blockchainmeetups/?_rdc=1&_rdr"
+  },
+  {
+    "name": "BelarusJavaUserGroup",
+    "topics": "Java-разработка",
+    "url": "http://www.belarusjug.org/"
+  },
+  {
+    "name": "BRUG.by",
+    "topics": "Ruby-разработка",
+    "url": "http://brug.by/"
+  },
+  {
+    "name": "Хакерспейс",
+    "topics": "Community Garage, IoT, Hardware, craftsmenship",
+    "url": "https://hackerspace.by/"
+  },
+  {
+    "name": "Agile.by",
+    "topics": "Scrum, agile",
+    "url": "http://agile.by/"
+  },
+  {
+    "name": "Pro .Net community",
+    "topics": ".NET Platform, engineering, architecture",
+    "url": "https://web.facebook.com/Pro-Net-community-323866207998632/?_rdc=1&_rdr"
+  },
+  {
+    "name": "Belarus Azure User Group",
+    "topics": "Microsoft Azure",
+    "url": "https://web.facebook.com/groups/AzureBelarus/about/"
+  },
+  {
+    "name": "Belarus Big Data User Group",
+    "topics": "Big Data. Hadoop, Apache Cassandra, other NoSQL related technologies.",
+    "url": "https://vk.com/belarus.big_data.user.group"
+  },
+  {
+    "name": "comaqa.by",
+    "topics": "QA Automation",
+    "url": "https://comaqa.by/"
+  },
+  {
+    "name": "Gophers by",
+    "topics": "Go lang",
+    "url": "http://gophers.by/"
+  },
+  {
+    "name": "Free Code Camp Minsk",
+    "topics": "учебный open source онлайн портал: Free Code Camp",
+    "url": "https://www.facebook.com/groups/free.code.camp.Minsk/",
+    "logo": "freecodecamp.png"
+  },
+  {
+    "name": "Белорусское сообщество бизнес и системных аналитиков",
+    "topics": "Бизнес или системный анализ",
+    "url": "http://analyst.by/"
+  },
+  {
+    "name": "Business Analysis in Belarus",
+    "topics": "Бизнес или системный анализ",
+    "url": "https://www.facebook.com/groups/BAinBY/"
+  },
+  {
+    "name": "IoT Belarus",
+    "topics": "",
+    "url": "https://www.facebook.com/groups/iot.belarus.community/"
+  },
+  {
+    "name": "Rust в Минске",
+    "topics": "",
+    "url": "https://www.meetup.com/Rust-%D0%B2-%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B5/"
+  },
+  {
+    "name": "Drupal User Group Minsk",
+    "topics": "",
+    "url": "https://www.meetup.com/ru-RU/Drupal-User-Group-Minsk/"
+  },
+  {
+    "name": "Minsk Atlassian User Group",
+    "topics": "стек Atlassian",
+    "url": "https://www.meetup.com/ru-RU/Minsk-Atlassian-User-Group/"
+  },
+  {
+    "name": "Minsk F# User Group",
+    "topics": "Functional programing languages, functional style/approach/libraries, engineering, programming languages theory",
+    "url": "https://www.meetup.com/ru-RU/fsharpminsk/"
+  },
+  {
+    "name": "Natural Language Processing group Belarus",
+    "topics": "computational linguistics and natural language processing (NLProc)",
+    "url": "http://nlproc.by/"
+  },
+  {
+    "name": "",
+    "topics": "",
+    "url": ""
+  },
+  {
+    "name": "Belarus Jenkins",
+    "topics": "Java, Jenkins",
+    "url": "https://www.meetup.com/ru-RU/Belarus-Jenkins-Meetup/"
+  },
+  {
+    "name": "Sitecore User Group Belarus",
+    "topics": "Sitecore Experience Platform",
+    "url": "https://www.meetup.com/ru-RU/Sitecore-User-Group-Belarus/"
+  },
+  {
+    "name": "Minsk Cryptography and Blockchain Meetup",
+    "topics": "",
+    "url": "https://www.meetup.com/ru-RU/Minsk-Cryptography-and-Blockchain-Meetup/"
+  },
+  {
+    "name": "Minsk Token Economy",
+    "topics": "",
+    "url": "https://www.meetup.com/ru-RU/Minsk-Token-Economy-Meetup/"
+  },
+  {
+    "name": "Create IT!",
+    "topics": "",
+    "url": "https://www.facebook.com/Create-it-448788985496830/?ref=br_rs",
+    "logo": "createit.png"
+  },
+  {
+    "name": "MLUG (Minsk Linux User Group)",
+    "topics": "Linux",
+    "url": "http://mlug.linux.by/"
+  },
+  {
+    "name": "ByOSM",
+    "topics": "Чатик про редактирование и использование OpenStreetMap в Беларуси.",
+    "url": "https://t.me/byosm"
+  },
+  {
+    "name": "WebNotBombs",
+    "topics": "Front-end development",
+    "url": ""
+  },
+  {
+    "name": "The Rolling Scopes",
+    "topics": "Front-end development",
+    "url": "https://www.facebook.com/groups/TheRollingScopes/"
+  },
+  {
+    "name": "PHP of By",
+    "topics": "PHP",
+    "url": "https://www.facebook.com/groups/minsk.user.group/"
+  },
+  {
+    "name": "Clojure.by",
+    "topics": "Blog about Clojure by Dmitry Bushenko",
+    "url": "http://clojure.by/"
+  },
+  {
+    "name": "4Front.by",
+    "topics": "Front-end development",
+    "url": "https://www.facebook.com/groups/4front/"
+  },
+  {
+    "name": "Minsk Unity 3d User Group",
+    "topics": "",
+    "url": "https://www.facebook.com/groups/unityMinsk/"
+  },
+  {
+    "name": "Imaguru blockchain lab",
+    "topics": "",
+    "url": "https://imaguru.by/blockchain-lab/"
+  },
+  {
+    "name": "Minsk Python Meetup",
+    "topics": "",
+    "url": "https://www.facebook.com/MinskPythonMeetup/"
+  }
+]

@@ -1,0 +1,39 @@
+.community {
+  max-width: 320px;
+  margin-bottom: 40px;
+
+  &_logo {
+    text-align: center;
+
+    & img {
+      max-height: 120px;
+    }
+  }
+
+  &_name {
+    font-size: 1.2em;
+    text-align: center;
+
+    & a {
+      max-width: 250px;
+      color: #383838;
+
+      &:hover {
+        color: #1a1a1a;
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+.page {
+  &_github_link {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+    @media screen and (max-width: 768px) {
+      width: 110px;
+    }
+  }
+}

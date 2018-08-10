@@ -1,0 +1,38 @@
+{
+  "name": "devents.by",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Heapy/devents.by.git",
+  "author": "Ruslan Ibragimov <ruslan@ibragimov.by>",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "shuffle-array": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.9",
+    "@types/react-dom": "^16.0.7",
+    "copy-webpack-plugin": "^4.5.2",
+    "css-loader": "^1.0.0",
+    "dart-sass": "^1.10.4",
+    "file-loader": "^1.1.11",
+    "html-webpack-plugin": "^3.2.0",
+    "mini-css-extract-plugin": "^0.4.1",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.22.1",
+    "ts-loader": "^4.4.2",
+    "typescript": "^3.0.1",
+    "url-loader": "^1.0.1",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
+  },
+  "scripts": {
+    "prestart": "yarn install",
+    "start": "webpack-dev-server --mode=development",
+    "start-prod": "webpack-dev-server --mode=production -p --env.NODE_ENV production --env.SOURCE_MAP source-map",
+    "build": "webpack --mode=production -p --env.NODE_ENV production --env.SOURCE_MAP source-map"
+  }
+}
