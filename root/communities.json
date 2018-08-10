@@ -19,11 +19,13 @@
   {
     "name": "MinskJS",
     "topics": "JavaScript for all platforms",
+    "logo": "minskjs.svg",
     "url": "https://www.facebook.com/MinskJS/"
   },
   {
     "name": "MinskCSS",
     "topics": "CSS",
+    "logo": "minskcss.svg",
     "url": "https://www.facebook.com/MinskCSS/"
   },
   {
