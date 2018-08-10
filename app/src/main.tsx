@@ -92,7 +92,7 @@ function Footer() {
     <footer className="footer">
       <div className="content has-text-centered">
         <p>
-          <strong>Heap/Communities</strong> by <a href="https://hea.app/">Ruslan Ibragimov</a>.
+          <strong>Heapy/Communities</strong> by <a href="https://hea.app/">Ruslan Ibragimov</a>.
           The source code is licensed <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU GPLv3</a>.
           The website content is licensed <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA
           4.0</a>.
